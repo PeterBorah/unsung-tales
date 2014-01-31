@@ -1,0 +1,23 @@
+{
+  "name": "unsung-tales",
+  "version": "0.0.0",
+  "description": "Spike",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp-ember-handlebars": "~0.4.1"
+  },
+  "devDependencies": {
+    "gulp-ember-handlebars": "~0.4.1",
+    "gulp-util": "~2.2.13",
+    "gulp": "~3.5.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-jshint": "~1.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Borah",
+}
