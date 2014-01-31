@@ -21,3 +21,11 @@ gulp.task('scripts', function(){
 gulp.task('default', function(){
   gulp.start('templates', 'scripts');
 });
+
+gulp.task('watch', function() {
+
+  gulp.watch('js/**/*.js', ['scripts']);
+
+  gulp.watch('js/templates/*.hbs', ['templates']);
+
+});
