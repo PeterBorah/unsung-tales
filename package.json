@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "gulp-ember-handlebars": "~0.4.1",
-    "restify": "~2.6.1"
+    "restify": "~2.6.1",
+    "bookshelf": "~0.6.2",
+    "pg": "~2.11.1",
+    "knex": "~0.5.5"
   },
   "devDependencies": {
     "gulp-ember-handlebars": "~0.4.1",
