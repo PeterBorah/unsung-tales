@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "dependencies": {
-    "gulp-ember-handlebars": "~0.4.1"
+    "gulp-ember-handlebars": "~0.4.1",
+    "restify": "~2.6.1"
   },
   "devDependencies": {
     "gulp-ember-handlebars": "~0.4.1",
@@ -19,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Peter Borah",
+  "author": "Peter Borah"
 }

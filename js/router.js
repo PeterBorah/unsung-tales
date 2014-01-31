@@ -1,3 +1,4 @@
 App.Router.map(function() {
-  // put your routes here
+  this.resource('colors', { path: '/' }, function () {
+  });
 });
